@@ -1,0 +1,18 @@
+[31-Jan-2017 11:09:48 UTC] PHP Catchable fatal error:  Argument 1 passed to Doctrine\ORM\Tools\Console\ConsoleRunner::createHelperSet() must be an instance of Doctrine\ORM\EntityManagerInterface, null given, called in /home/ubuntu/workspace/clases/doctrine/cli-config.php on line 3 and defined in /home/ubuntu/workspace/clases/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/ConsoleRunner.php on line 41
+[31-Jan-2017 11:09:48 UTC] PHP Stack trace:
+[31-Jan-2017 11:09:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/clases/vendor/doctrine/orm/bin/doctrine:0
+[31-Jan-2017 11:09:48 UTC] PHP   2. include() /home/ubuntu/workspace/clases/vendor/doctrine/orm/bin/doctrine:4
+[31-Jan-2017 11:09:48 UTC] PHP   3. require() /home/ubuntu/workspace/clases/vendor/doctrine/orm/bin/doctrine.php:48
+[31-Jan-2017 11:09:48 UTC] PHP   4. Doctrine\ORM\Tools\Console\ConsoleRunner::createHelperSet() /home/ubuntu/workspace/clases/doctrine/cli-config.php:3
+[31-Jan-2017 11:11:37 UTC] PHP Catchable fatal error:  Argument 1 passed to Doctrine\ORM\Tools\Console\ConsoleRunner::createHelperSet() must be an instance of Doctrine\ORM\EntityManagerInterface, null given, called in /home/ubuntu/workspace/clases/doctrine/cli-config.php on line 3 and defined in /home/ubuntu/workspace/clases/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/ConsoleRunner.php on line 41
+[31-Jan-2017 11:11:37 UTC] PHP Stack trace:
+[31-Jan-2017 11:11:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/clases/vendor/doctrine/orm/bin/doctrine:0
+[31-Jan-2017 11:11:37 UTC] PHP   2. include() /home/ubuntu/workspace/clases/vendor/doctrine/orm/bin/doctrine:4
+[31-Jan-2017 11:11:37 UTC] PHP   3. require() /home/ubuntu/workspace/clases/vendor/doctrine/orm/bin/doctrine.php:48
+[31-Jan-2017 11:11:37 UTC] PHP   4. Doctrine\ORM\Tools\Console\ConsoleRunner::createHelperSet() /home/ubuntu/workspace/clases/doctrine/cli-config.php:3
+[31-Jan-2017 11:12:23 UTC] PHP Catchable fatal error:  Argument 1 passed to Doctrine\ORM\Tools\Console\ConsoleRunner::createHelperSet() must be an instance of Doctrine\ORM\EntityManagerInterface, null given, called in /home/ubuntu/workspace/clases/doctrine/cli-config.php on line 3 and defined in /home/ubuntu/workspace/clases/vendor/doctrine/orm/lib/Doctrine/ORM/Tools/Console/ConsoleRunner.php on line 41
+[31-Jan-2017 11:12:23 UTC] PHP Stack trace:
+[31-Jan-2017 11:12:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/clases/vendor/doctrine/orm/bin/doctrine:0
+[31-Jan-2017 11:12:23 UTC] PHP   2. include() /home/ubuntu/workspace/clases/vendor/doctrine/orm/bin/doctrine:4
+[31-Jan-2017 11:12:23 UTC] PHP   3. require() /home/ubuntu/workspace/clases/vendor/doctrine/orm/bin/doctrine.php:48
+[31-Jan-2017 11:12:23 UTC] PHP   4. Doctrine\ORM\Tools\Console\ConsoleRunner::createHelperSet() /home/ubuntu/workspace/clases/doctrine/cli-config.php:3

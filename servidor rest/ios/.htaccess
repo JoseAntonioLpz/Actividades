@@ -1,0 +1,6 @@
+#RewriteEngine on
+#RewriteRule ^(\w+)/?$ api.php?object=$1 [QSA,l]
+#RewriteRule ^(\w+)/(\w+)/?$ api.php?object=$1&?id=$2 [QSA,l]
+
+RewriteEngine On
+RewriteRule ^(.*)$ api.php?url=$1 [QSA,l]
